@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Welcome to Jekyll
-date: 2016-05-08T20:34:26.000Z
+title: Design you bear
+date: {}
 image: /assets/img/
 description: design a bear with css and html.
 main-class: jekyll
