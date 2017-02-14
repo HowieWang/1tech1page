@@ -4,7 +4,7 @@ title: Design you bear
 date: 2016-05-08T20:34:26.000Z
 image: /assets/img/
 description: design a bear with css and html.
-main-class: jekyll
+main-class: css
 color: '#947267'
 tags:
   - css
