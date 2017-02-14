@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Design you bear
-date: {}
+date: 2016-05-08T20:34:26.000Z
 image: /assets/img/
 description: design a bear with css and html.
 main-class: jekyll
-color: '#B31917'
+color: '#947267'
 tags:
   - css
   - cartoon
